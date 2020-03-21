@@ -2,5 +2,5 @@
 while true
 do
  ./MQTTSSL-2
-sleep 10
+sleep 60
 done
