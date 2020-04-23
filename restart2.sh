@@ -1,6 +1,6 @@
 #!/bin/bash
-while true
-do
- ./MQTTSSL-2
+cd /home/kontron/azure_mqtt/MQTTSSL-2/bin/Debug
+
+xterm -e ./MQTTSSL-2
 sleep 60
-done
+reboot
