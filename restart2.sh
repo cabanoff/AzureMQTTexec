@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/kontron/azure_mqtt/MQTTSSL-2/bin/Debug
+cd /home/kontron/AzureMQTTExec/AzureMQTTexec/
 
 xterm -e ./MQTTSSL-2
 sleep 60

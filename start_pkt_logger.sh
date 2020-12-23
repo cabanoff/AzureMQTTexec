@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/kontron/ver31/lora_gateway/util_pkt_logger
+cd /home/kontron/LoRa-V301/util_pkt_logger
 xterm -e ./util_pkt_logger
 
 #while true

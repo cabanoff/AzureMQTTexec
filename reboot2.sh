@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo /home/kontron/azure_mqtt/MQTTSSL-1/bin/Debug/restart2.sh
+/home/kontron/AzureMQTTExec/AzureMQTTexec/restart2.sh
